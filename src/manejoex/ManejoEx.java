@@ -1,7 +1,7 @@
 package manejoex;
 
 /*
-Realizado por Adriana Leon Camacho y Luz Elena Rodriguez Martinez
+Realizado por Adriana Leon Camacho
 */
 
 import java.util.Scanner;
